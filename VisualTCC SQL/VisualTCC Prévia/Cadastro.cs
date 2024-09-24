@@ -11,6 +11,8 @@ using System.Windows.Forms;
 
 namespace VisualTCC_Prévia
 {
+
+    
     public partial class Cadastro : Form
     {
         string connectionString = "Data Source=AMI;Initial Catalog=Super_Mercado;User ID=sa;Password=98082450j";
